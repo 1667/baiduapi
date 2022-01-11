@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T05:33:08.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="TIsvZKOXLNw9qtdvcNWG" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-11T05:33:57.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wgF_jj10baY6fjv0_Z_A" version="16.2.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DscNr8avuv0pjnWFkSMn" name="Page-2">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XbwA4HdIulMqkeAPt3lQ-0" />
         <mxCell id="XbwA4HdIulMqkeAPt3lQ-1" parent="XbwA4HdIulMqkeAPt3lQ-0" />
@@ -157,13 +157,13 @@
           <mxGeometry x="640" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DCqdygWWXPNcumTDrxU_-0" value="地址信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
-          <mxGeometry x="630" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DCqdygWWXPNcumTDrxU_-1" value="实名认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
-          <mxGeometry x="630" y="665" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DCqdygWWXPNcumTDrxU_-2" value="提现账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
-          <mxGeometry x="630" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
