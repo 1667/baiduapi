@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T05:33:57.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wgF_jj10baY6fjv0_Z_A" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-11T05:37:17.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="j9QTXJRGQlU-WG4gnsNW" version="16.2.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,6 +164,15 @@
         </mxCell>
         <mxCell id="DCqdygWWXPNcumTDrxU_-2" value="提现账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
           <mxGeometry x="640" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wY4vPp5ksLyNbMh1cfcL-0" value="&lt;font color=&quot;#ff0000&quot;&gt;目前系统需要添加的功能&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
+          <mxGeometry x="250" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY4vPp5ksLyNbMh1cfcL-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontColor=#FF0000;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
+          <mxGeometry x="720" y="275" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wY4vPp5ksLyNbMh1cfcL-2" value="&lt;font color=&quot;#ff0000&quot;&gt;需要详细&lt;br&gt;开发测试&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="XbwA4HdIulMqkeAPt3lQ-1">
+          <mxGeometry x="740" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
